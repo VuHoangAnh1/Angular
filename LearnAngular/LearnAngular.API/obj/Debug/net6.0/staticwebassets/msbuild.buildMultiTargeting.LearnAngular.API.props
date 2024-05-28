@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LearnAngular.API.props" />
+</Project>

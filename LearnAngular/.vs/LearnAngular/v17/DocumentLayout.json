@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|c:\\users\\admin\\desktop\\learnangular\\learnangular\\learnangular.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\data\\hotelsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\data\\hotelsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\migrations\\20240523030531_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\migrations\\20240523030531_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\learnangular.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:learnangular.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Migrations\\20240523084843_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4203E807-FE9F-42CB-942A-38ECDA5EE50D}|LearnAngular.API\\LearnAngular.API.csproj|solutionrelative:LearnAngular.API\\Migrations\\20240523084843_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LearnAngular.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:35:04.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "LearnAngular.API\\Controllers\\HotelsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:07:28.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Models\\User.cs",
+              "RelativeToolTip": "LearnAngular.API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:37:35.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LearnAngular.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:49:31.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\WeatherForecast.cs",
+              "RelativeToolTip": "LearnAngular.API\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:55:37.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Program.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Program.cs",
+              "RelativeToolTip": "LearnAngular.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:49:07.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Data\\HotelsDbContext.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Data\\HotelsDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Data\\HotelsDbContext.cs",
+              "RelativeToolTip": "LearnAngular.API\\Data\\HotelsDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:33:45.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Models\\Hotel.cs",
+              "RelativeToolTip": "LearnAngular.API\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:26:27.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240523084843_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Migrations\\20240523084843_initial.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Migrations\\20240523084843_initial.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Migrations\\20240523084843_initial.cs",
+              "RelativeToolTip": "LearnAngular.API\\Migrations\\20240523084843_initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:48:44.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240523030531_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Migrations\\20240523030531_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LearnAngular.API\\Migrations\\20240523030531_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\Migrations\\20240523030531_InitialCreate.cs",
+              "RelativeToolTip": "LearnAngular.API\\Migrations\\20240523030531_InitialCreate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:05:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LearnAngular.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\LearnAngular\\LearnAngular\\LearnAngular.API\\appsettings.json",
+              "RelativeToolTip": "LearnAngular.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T02:46:17.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
